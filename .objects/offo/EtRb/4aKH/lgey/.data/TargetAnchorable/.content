@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://the-internet.herokuapp.com/login" ContentHash="Hm-cDzdmSk6DZ7clx3cmWg" DesignTimeRectangle="483, 312, 470, 32" ElementType="InputBox" FriendlyName="'INPUT  username'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' aaname='Username' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Internet' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="483, 295, 470, 14" ElementType="Text" FriendlyName="'Username'" FullSelectorArgument="&lt;webctrl aaname='Username' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Username' tag='LABEL' type='' check:text='Username' /&gt;" SearchSteps="FuzzySelector, Image" Text="Username" TextMethod="AttributeText" TextSelector="&lt;webctrl tag='LABEL' type='' /&gt;">
+        <imageRef attrName="ImageBase64" xmlns="">1cTY2mnlXxk-06on1S2T60Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0QgNbKOP9CkCVHZVn7KLj5g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="10752d575591dbbdcc166f45208bc397.png" xmlns="">0WubqdWoQ5UiYIVQWEJ5vyw</imageRef>
+</TargetAnchorable>

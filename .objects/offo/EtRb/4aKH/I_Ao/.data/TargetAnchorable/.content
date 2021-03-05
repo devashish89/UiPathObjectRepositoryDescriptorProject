@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://the-internet.herokuapp.com/login" ContentHash="JQYwK_3gCUelPHjeszprlA" DesignTimeRectangle="508, 435, 112, 32" FriendlyName="'Login'" FullSelectorArgument="&lt;webctrl tag='I' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='I' type='' aaname=' Login' check:text='Login' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Internet' /&gt;" SearchSteps="FuzzySelector, Image" Text="Login" TextMethod="AttributeText" TextSelector="&lt;webctrl tag='I' type='' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0PZTHve0_pkK63-HxvrLZQQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7757555da23eb0e080bf98a0069e7576.png" xmlns="">0xgFpt4Ym_0KNzBQg8vjiQw</imageRef>
+</TargetAnchorable>

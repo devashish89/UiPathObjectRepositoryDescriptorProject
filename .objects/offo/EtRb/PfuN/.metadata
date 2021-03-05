@@ -1,0 +1,15 @@
+﻿{
+  "Id": "PfuNAFuVm0q1MFiqsdpkbQ",
+  "Reference": "f43WEMRBikCfTZs_n2oMZQ/PfuNAFuVm0q1MFiqsdpkbQ",
+  "ParentRef": "f43WEMRBikCfTZs_n2oMZQ/EtRbstImkkq2-aDYQrra7w",
+  "Name": "LogOutScreen",
+  "Type": "Screen",
+  "Created": "2021-03-05T06:51:33.0618941Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-03-05T06:53:17.7511278Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

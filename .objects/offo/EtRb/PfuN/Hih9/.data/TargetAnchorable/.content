@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://the-internet.herokuapp.com/secure" ContentHash="UmkFKHd_NUyPr0j-3O8LxA" DesignTimeRectangle="475, 286, 104, 45" ElementType="Text" FriendlyName="'Logout'" FullSelectorArgument="&lt;webctrl parentid='content' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='content' tag='A' type='' aaname=' Logout' check:text='Logout' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Internet' /&gt;" SearchSteps="FuzzySelector, Image" Text="Logout" TextMethod="AttributeText" TextSelector="&lt;webctrl tag='A' type='' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0ztOl4lw1Q0-N62LjtngvEA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="cedd93eedecbdbb8c395066dde072d7a.png" xmlns="">0kg5zrqy0jUSXjFR8F6sMow</imageRef>
+</TargetAnchorable>

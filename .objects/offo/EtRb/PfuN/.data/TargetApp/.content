@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp BrowserType="Chrome" ContentHash="RgoPfMw2NEGzkbbVtsPVWQ" Selector="&lt;html app='chrome.exe' title='The Internet'/&gt;" Url="https://the-internet.herokuapp.com/secure" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0-jLy1Hgo60CEe5tCK-aHdg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d40d55eb90c4902d44c9bc371c822645.png" xmlns="">0qFHzac2OhU-46j1IhVBPfw</imageRef>
+</TargetApp>
